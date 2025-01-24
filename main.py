@@ -12,8 +12,8 @@ PHONE_NUMBER = +5516982194939  # Coloque seu número de telefone aqui
 CHAT_ID = -1002441869048  # Coloque o ID do chat de destino aqui
 
 # Texto para sobrepor nas mídias
-TEXT_LINE1 = "Linha 1"
-TEXT_LINE2 = "Linha 2"
+TEXT_LINE1 = "DraLarissa.github.io"
+TEXT_LINE2 = "-- videos --"
 
 # Buffer mínimo de mídias
 MIN_VIDEOS = 20
